@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Cristiano Santos 😁
+## Bem-vindo(a) ao perfil de Cristiano Santos 😁
 
  <div>
    <a href="https://github.com/cristiano97santos">
